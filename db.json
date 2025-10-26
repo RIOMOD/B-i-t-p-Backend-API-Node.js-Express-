@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "name": "Set váy công sở",
+      "price": 650000
+    },
+    {
+      "id": "3",
+      "name": "Áo thêu tay cổ điển",
+      "price": 580000
+    }
+  ]
+}
